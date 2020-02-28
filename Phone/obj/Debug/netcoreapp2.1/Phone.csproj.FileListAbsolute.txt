@@ -1,0 +1,11 @@
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/bin/Debug/netcoreapp2.1/Phone.deps.json
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/bin/Debug/netcoreapp2.1/Phone.runtimeconfig.json
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/bin/Debug/netcoreapp2.1/Phone.runtimeconfig.dev.json
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/bin/Debug/netcoreapp2.1/Phone.dll
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/bin/Debug/netcoreapp2.1/Phone.pdb
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/obj/Debug/netcoreapp2.1/Phone.csprojAssemblyReference.cache
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/obj/Debug/netcoreapp2.1/Phone.csproj.CoreCompileInputs.cache
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/obj/Debug/netcoreapp2.1/Phone.AssemblyInfoInputs.cache
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/obj/Debug/netcoreapp2.1/Phone.AssemblyInfo.cs
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/obj/Debug/netcoreapp2.1/Phone.dll
+/Users/randonjordan/Documents/CodingDojo/C#/Phone/obj/Debug/netcoreapp2.1/Phone.pdb
